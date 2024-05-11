@@ -15,7 +15,7 @@ for (let i = 1; i <= count; i++) {
   }
 }
 
-let result = ""
+let result = " "
 
 for (const row of rows) {
   result = result + "\n" + row;
